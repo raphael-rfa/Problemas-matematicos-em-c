@@ -4,7 +4,7 @@ int main ()
 {
 	int num,resto;
 	
-	printf("digite um numero er eu direi se ele e divisivel por sete e por tres\n");
+	printf("digite um numero e eu direi se ele e divisivel por sete e por tres\n");
 	scanf("%d",&num);
 	
 	resto = num % 3 ;
